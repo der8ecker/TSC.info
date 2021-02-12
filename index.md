@@ -1,5 +1,6 @@
 ## Welcome to the official Token Split Coin Website
-
+<img src="https://cdn.discordapp.com/attachments/515219517950001152/809787446374957056/TSC_Logo.png" alt="hi" class="inline"/>
+https://cdn.discordapp.com/attachments/515219517950001152/809787446374957056/TSC_Logo.png
 All of your transactions are kept secure in the Ethereum (ERC20) Blockchain, and will be super fast and reliable.
 
 ### Recoursses
