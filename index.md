@@ -203,3 +203,6 @@ contract LCSTToken is ERC20Interface, SafeMath {
 ### Contributors
 Ideas and implementation by JoRo1812 and der8ecker
 
+### Raw Sourcecode 
+by bajcmartinez. Big shoutouts to him. Thanks for your amazing work! :)
+
