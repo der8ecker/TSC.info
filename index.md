@@ -2,6 +2,8 @@
 
 All of your transactions are kept secure in the Ethereum (ERC20) Blockchain, and will be super fast and reliable.
 
+### Recoursses
+https://github.com/der8ecker/TSC.info
 
 ### Features
 All of your transactions are kept secure in the Ethereum (ERC20) Blockchain, and will be super fast and reliable.
