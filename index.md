@@ -8,7 +8,8 @@ All of your transactions are kept secure in the Ethereum (ERC20) Blockchain, and
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Here you can find the source code of the Token and learn about its features and behaviour
+Here you can find the source code of the Token 
+and learn about its features and behaviour
 
 System.out.println("Were are not ready lol")
 ```
