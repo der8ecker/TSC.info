@@ -2,7 +2,6 @@
 
 All of your transactions are kept secure in the Ethereum (ERC20) Blockchain, and will be super fast and reliable.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Features
 
