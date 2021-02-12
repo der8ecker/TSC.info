@@ -15,13 +15,16 @@ All of your transactions are kept secure in the Ethereum (ERC20) Blockchain, and
 You can basically use every Ethereum (ERC20 Token) Wallet. If you are new to cryptos here is an easy, free, and fast way:
 
 ### 1:
-      First off all you either have to Download the MetaMask App (IOS and Android) or you can use for eg. the Chrome Webbroser and install the official extension
-      click <a href="here">https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=de</a> to download the Chrome extension.
+
+First off all you either have to Download the MetaMask App (IOS and Android) or you can use for eg. the Chrome Webbroser and install the official extension
+click <a href="here">https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=de</a> to download the Chrome extension.
 ### 2:
-      Setup the MetaMask, write down your recovery words and you are ready to go
+
+Setup the MetaMask, write down your recovery words and you are ready to go
 ### 3:
-      If you click on the symbol in the extensions menu in chrome it should look something like this:
-      <img src="https://cdn.discordapp.com/attachments/515219517950001152/809919848795996170/Bildschirmfoto_2021-02-12_um_23.51.36.png" alt="hi" class="inline"/>
+
+If you click on the symbol in the extensions menu in chrome it should look something like this:
+<img src="https://cdn.discordapp.com/attachments/515219517950001152/809919848795996170/Bildschirmfoto_2021-02-12_um_23.51.36.png" alt="hi" class="inline"/>
 
 ### Sourcecode
 
